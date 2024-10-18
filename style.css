@@ -1,0 +1,26 @@
+
+body{
+    display: flex;
+    text-align: center;
+    background-color: #222831;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 200px;
+}
+h1{
+    color: #FAC648;
+    font-size: 50px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+button{
+    padding: 10px 20px;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid black;
+    font-size: 16px;
+}
